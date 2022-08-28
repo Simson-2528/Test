@@ -3,6 +3,8 @@ package com.string;
 public class StringA {
 	
 public static void main(String[] args) {
+	
+	System.out.println("simson checking conflict");
 		
 		String s ="java";
 		//length----checks the length of given string
