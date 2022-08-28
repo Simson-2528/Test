@@ -1,8 +1,13 @@
 package com.string;
 
 public class StringA {
+	private void name() {
+System.out.println("simson");
+	}
 	
 public static void main(String[] args) {
+	
+	
 		
 		String s ="java";
 		//length----checks the length of given string
@@ -62,8 +67,7 @@ public static void main(String[] args) {
 		System.out.println(concat);
 		
 		
-		
-		
+	
 		
 		
 		
